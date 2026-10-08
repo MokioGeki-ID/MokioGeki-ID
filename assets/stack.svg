@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="342" viewBox="0 0 1000 342" role="img" aria-label="Tech stack. Bahasa: JavaScript, HTML, CSS, Python, SQL. Frontend: React 18, Vite, Framer Motion. Backend: Node.js, Express, JWT. Database: PostgreSQL, Supabase. Tools: Git, GitHub, Vercel, Antigravity IDE, Gemini API.">
+<title>Tech stack. Bahasa: JavaScript, HTML, CSS, Python, SQL. Frontend: React 18, Vite, Framer Motion. Backend: Node.js, Express, JWT. Database: PostgreSQL, Supabase. Tools: Git, GitHub, Vercel, Antigravity IDE, Gemini API.</title>
+<defs><linearGradient id="st" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d1a33"/><stop offset="1" stop-color="#0a1224"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="999" height="341" rx="16" fill="url(#st)" stroke="#1e3a5f"/>
+<text x="44" y="60.0" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14.5" font-weight="600" fill="#94a3b8" text-anchor="start">Bahasa</text>
+<rect x="190.0" y="38.0" width="106.9" height="34" rx="17.0" fill="#0f1f3b" stroke="#1e3a5f"/>
+<circle cx="206.0" cy="55.0" r="4.5" fill="#f7df1e"/>
+<text x="218.0" y="59.86" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" font-weight="500" fill="#e2e8f0" text-anchor="start">JavaScript</text>
+<rect x="306.9" y="38.0" width="78.9" height="34" rx="17.0" fill="#0f1f3b" stroke="#1e3a5f"/>
+<circle cx="322.9" cy="55.0" r="4.5" fill="#e34f26"/>
+<text x="334.9" y="59.86" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" font-weight="500" fill="#e2e8f0" text-anchor="start">HTML</text>
+<rect x="395.9" y="38.0" width="68.7" height="34" rx="17.0" fill="#0f1f3b" stroke="#1e3a5f"/>
+<circle cx="411.9" cy="55.0" r="4.5" fill="#2965f1"/>
+<text x="423.9" y="59.86" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" font-weight="500" fill="#e2e8f0" text-anchor="start">CSS</text>
+<rect x="474.6" y="38.0" width="87.5" height="34" rx="17.0" fill="#0f1f3b" stroke="#1e3a5f"/>
+<circle cx="490.6" cy="55.0" r="4.5" fill="#4b8bbe"/>
+<text x="502.6" y="59.86" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" font-weight="500" fill="#e2e8f0" text-anchor="start">Python</text>
+<rect x="572.1" y="38.0" width="68.8" height="34" rx="17.0" fill="#0f1f3b" stroke="#1e3a5f"/>
+<circle cx="588.1" cy="55.0" r="4.5" fill="#94a3b8"/>
+<text x="600.1" y="59.86" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" font-weight="500" fill="#e2e8f0" text-anchor="start">SQL</text>
+<line x1="44" y1="84" x2="956" y2="84" stroke="#14264a"/>
+<text x="44" y="118.0" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14.5" font-weight="600" fill="#94a3b8" text-anchor="start">Frontend</text>
+<rect x="190.0" y="96.0" width="99.4" height="34" rx="17.0" fill="#0f1f3b" stroke="#1e3a5f"/>
+<circle cx="206.0" cy="113.0" r="4.5" fill="#61dafb"/>
+<text x="218.0" y="117.86" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" font-weight="500" fill="#e2e8f0" text-anchor="start">React 18</text>
+<rect x="299.4" y="96.0" width="68.4" height="34" rx="17.0" fill="#0f1f3b" stroke="#1e3a5f"/>
+<circle cx="315.4" cy="113.0" r="4.5" fill="#bd34fe"/>
+<text x="327.4" y="117.86" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" font-weight="500" fill="#e2e8f0" text-anchor="start">Vite</text>
+<rect x="377.8" y="96.0" width="134.8" height="34" rx="17.0" fill="#0f1f3b" stroke="#1e3a5f"/>
+<circle cx="393.8" cy="113.0" r="4.5" fill="#0099ff"/>
+<text x="405.8" y="117.86" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" font-weight="500" fill="#e2e8f0" text-anchor="start">Framer Motion</text>
+<line x1="44" y1="142" x2="956" y2="142" stroke="#14264a"/>
+<text x="44" y="176.0" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14.5" font-weight="600" fill="#94a3b8" text-anchor="start">Backend</text>
+<rect x="190.0" y="154.0" width="90.8" height="34" rx="17.0" fill="#0f1f3b" stroke="#1e3a5f"/>
+<circle cx="206.0" cy="171.0" r="4.5" fill="#68a063"/>
+<text x="218.0" y="175.86" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" font-weight="500" fill="#e2e8f0" text-anchor="start">Node.js</text>
+<rect x="290.8" y="154.0" width="93.0" height="34" rx="17.0" fill="#0f1f3b" stroke="#1e3a5f"/>
+<circle cx="306.8" cy="171.0" r="4.5" fill="#cbd5e1"/>
+<text x="318.8" y="175.86" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" font-weight="500" fill="#e2e8f0" text-anchor="start">Express</text>
+<rect x="393.8" y="154.0" width="67.8" height="34" rx="17.0" fill="#0f1f3b" stroke="#1e3a5f"/>
+<circle cx="409.8" cy="171.0" r="4.5" fill="#d63aff"/>
+<text x="421.8" y="175.86" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" font-weight="500" fill="#e2e8f0" text-anchor="start">JWT</text>
+<line x1="44" y1="200" x2="956" y2="200" stroke="#14264a"/>
+<text x="44" y="234.0" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14.5" font-weight="600" fill="#94a3b8" text-anchor="start">Database</text>
+<rect x="190.0" y="212.0" width="115.7" height="34" rx="17.0" fill="#0f1f3b" stroke="#1e3a5f"/>
+<circle cx="206.0" cy="229.0" r="4.5" fill="#5b9bd5"/>
+<text x="218.0" y="233.86" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" font-weight="500" fill="#e2e8f0" text-anchor="start">PostgreSQL</text>
+<rect x="315.7" y="212.0" width="105.5" height="34" rx="17.0" fill="#0f1f3b" stroke="#1e3a5f"/>
+<circle cx="331.7" cy="229.0" r="4.5" fill="#3ecf8e"/>
+<text x="343.7" y="233.86" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" font-weight="500" fill="#e2e8f0" text-anchor="start">Supabase</text>
+<line x1="44" y1="258" x2="956" y2="258" stroke="#14264a"/>
+<text x="44" y="292.0" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14.5" font-weight="600" fill="#94a3b8" text-anchor="start">Tools</text>
+<rect x="190.0" y="270.0" width="62.1" height="34" rx="17.0" fill="#0f1f3b" stroke="#1e3a5f"/>
+<circle cx="206.0" cy="287.0" r="4.5" fill="#f05032"/>
+<text x="218.0" y="291.86" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" font-weight="500" fill="#e2e8f0" text-anchor="start">Git</text>
+<rect x="262.1" y="270.0" width="87.5" height="34" rx="17.0" fill="#0f1f3b" stroke="#1e3a5f"/>
+<circle cx="278.1" cy="287.0" r="4.5" fill="#e2e8f0"/>
+<text x="290.1" y="291.86" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" font-weight="500" fill="#e2e8f0" text-anchor="start">GitHub</text>
+<rect x="359.6" y="270.0" width="82.3" height="34" rx="17.0" fill="#0f1f3b" stroke="#1e3a5f"/>
+<circle cx="375.6" cy="287.0" r="4.5" fill="#ffffff"/>
+<text x="387.6" y="291.86" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" font-weight="500" fill="#e2e8f0" text-anchor="start">Vercel</text>
+<rect x="452.0" y="270.0" width="138.3" height="34" rx="17.0" fill="#0f1f3b" stroke="#1e3a5f"/>
+<circle cx="468.0" cy="287.0" r="4.5" fill="#7dd3fc"/>
+<text x="480.0" y="291.86" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" font-weight="500" fill="#e2e8f0" text-anchor="start">Antigravity IDE</text>
+<rect x="600.3" y="270.0" width="112.5" height="34" rx="17.0" fill="#0f1f3b" stroke="#1e3a5f"/>
+<circle cx="616.3" cy="287.0" r="4.5" fill="#8ab4f8"/>
+<text x="628.3" y="291.86" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" font-weight="500" fill="#e2e8f0" text-anchor="start">Gemini API</text>
+</svg>

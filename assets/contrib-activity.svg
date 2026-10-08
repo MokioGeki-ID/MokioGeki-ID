@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="Aktivitas 30 hari terakhir. Menunggu pembaruan pertama dari GitHub Actions.">
+<title>Aktivitas 30 hari terakhir. Menunggu pembaruan pertama dari GitHub Actions.</title>
+<defs><linearGradient id="ac" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d1a33"/><stop offset="1" stop-color="#0a1224"/></linearGradient><linearGradient id="aca" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7dd3fc" stop-opacity="0.38"/><stop offset="1" stop-color="#7dd3fc" stop-opacity="0"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="999" height="279" rx="16" fill="url(#ac)" stroke="#1e3a5f"/>
+<text x="44" y="52" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="700" fill="#f1f5f9" text-anchor="start">Aktivitas 30 hari terakhir</text>
+<text x="956" y="52" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="500" fill="#94a3b8" text-anchor="end">Menunggu pembaruan pertama dari GitHub Actions</text>
+<line x1="76" y1="222.0" x2="956" y2="222.0" stroke="#14264a"/>
+<text x="64" y="226.0" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="400" fill="#94a3b8" text-anchor="end">0</text>
+<line x1="76" y1="188.0" x2="956" y2="188.0" stroke="#14264a"/>
+<text x="64" y="192.0" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="400" fill="#94a3b8" text-anchor="end">1</text>
+<line x1="76" y1="154.0" x2="956" y2="154.0" stroke="#14264a"/>
+<text x="64" y="158.0" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="400" fill="#94a3b8" text-anchor="end">2</text>
+<line x1="76" y1="120.0" x2="956" y2="120.0" stroke="#14264a"/>
+<text x="64" y="124.0" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="400" fill="#94a3b8" text-anchor="end">3</text>
+<line x1="76" y1="86.0" x2="956" y2="86.0" stroke="#14264a"/>
+<text x="64" y="90.0" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="400" fill="#94a3b8" text-anchor="end">4</text>
+<text x="76.0" y="246" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="400" fill="#94a3b8" text-anchor="middle">9 Sep</text>
+<text x="227.7" y="246" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="400" fill="#94a3b8" text-anchor="middle">14 Sep</text>
+<text x="379.4" y="246" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="400" fill="#94a3b8" text-anchor="middle">19 Sep</text>
+<text x="531.2" y="246" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="400" fill="#94a3b8" text-anchor="middle">24 Sep</text>
+<text x="682.9" y="246" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="400" fill="#94a3b8" text-anchor="middle">29 Sep</text>
+<text x="834.6" y="246" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="400" fill="#94a3b8" text-anchor="middle">4 Okt</text>
+<text x="956.0" y="246" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="400" fill="#94a3b8" text-anchor="end">8 Okt</text>
+</svg>

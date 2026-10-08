@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="196" viewBox="0 0 330 196" role="img" aria-label="SubnetKeep. Proyek bertema TKJ (Teknik Komputer dan Jaringan) berbasis HTML. Repositori MokioGeki-ID/SubnetKeep-Project-TKJ.">
+<title>SubnetKeep. Proyek bertema TKJ (Teknik Komputer dan Jaringan) berbasis HTML. Repositori MokioGeki-ID/SubnetKeep-Project-TKJ.</title>
+<defs><linearGradient id="p2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d1a33"/><stop offset="1" stop-color="#0a1224"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="329" height="195" rx="16" fill="url(#p2)" stroke="#1e3a5f"/>
+<text x="24" y="50" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="700" fill="#f1f5f9" text-anchor="start">SubnetKeep</text>
+<text x="24" y="84" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" font-weight="400" fill="#cbd5e1" text-anchor="start">Proyek bertema TKJ (Teknik Komputer</text>
+<text x="24" y="106" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" font-weight="400" fill="#cbd5e1" text-anchor="start">dan Jaringan) berbasis HTML.</text>
+<rect x="24.0" y="128" width="76.4" height="28" rx="14.0" fill="#0f1f3b" stroke="#1e3a5f"/>
+<circle cx="40.0" cy="142.0" r="4.5" fill="#e34f26"/>
+<text x="52.0" y="146.5" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="500" fill="#e2e8f0" text-anchor="start">HTML</text>
+<text x="24" y="180" font-family="'Fira Code','Cascadia Code',Consolas,'Courier New',monospace" font-size="11" font-weight="400" fill="#94a3b8" text-anchor="start">MokioGeki-ID/SubnetKeep-Project-TKJ</text>
+</svg>

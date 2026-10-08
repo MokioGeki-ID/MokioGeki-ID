@@ -1,0 +1,33 @@
+name: Update contribution graphs
+
+on:
+  schedule:
+    - cron: "0 17 * * *"   # setiap hari 00:00 WIB
+  workflow_dispatch:         # bisa dijalankan manual dari tab Actions
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate SVG graphs
+        env:
+          # Pakai PROFILE_TOKEN (PAT dengan scope read:user) kalau ingin kontribusi privat ikut terhitung.
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/generate_contributions.py "${{ github.repository_owner }}"
+
+      - name: Commit changes
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contrib-heatmap.svg assets/contrib-activity.svg
+          git diff --staged --quiet || git commit -m "chore: update contribution graphs"
+          git push

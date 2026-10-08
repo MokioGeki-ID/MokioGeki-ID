@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" role="img" aria-label="MokioGeki, Junior Fullstack Developer dari Indonesia. Membangun aplikasi web dari tampilan di browser sampai server dan database, terutama untuk belajar dan pendidikan. Sedang memperdalam JWT, bcrypt, Row Level Security, dan SQL. Bisa ditanya soal React dan Vite, REST API dengan Node.js dan Express, Supabase dan PostgreSQL, Git dan GitHub, serta website untuk belajar dan sekolah.">
+<title>MokioGeki, Junior Fullstack Developer dari Indonesia. Membangun aplikasi web dari tampilan di browser sampai server dan database, terutama untuk belajar dan pendidikan. Sedang memperdalam JWT, bcrypt, Row Level Security, dan SQL. Bisa ditanya soal React dan Vite, REST API dengan Node.js dan Express, Supabase dan PostgreSQL, Git dan GitHub, serta website untuk belajar dan sekolah.</title>
+<defs><linearGradient id="ab" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d1a33"/><stop offset="1" stop-color="#0a1224"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="999" height="329" rx="16" fill="url(#ab)" stroke="#1e3a5f"/>
+<text x="44" y="86" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="700" fill="#f1f5f9" text-anchor="start">Halo, saya MokioGeki.</text>
+<text x="44" y="126" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="15.5" font-weight="400" fill="#cbd5e1" text-anchor="start">Junior Fullstack Developer dari Indonesia. Saya membangun</text>
+<text x="44" y="153" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="15.5" font-weight="400" fill="#cbd5e1" text-anchor="start">aplikasi web dari tampilan di browser sampai server dan</text>
+<text x="44" y="180" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="15.5" font-weight="400" fill="#cbd5e1" text-anchor="start">database, dan senang mengerjakan sistem yang benar-benar</text>
+<text x="44" y="207" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="15.5" font-weight="400" fill="#cbd5e1" text-anchor="start">dipakai orang, terutama untuk belajar dan pendidikan.</text>
+<text x="44" y="262" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="600" fill="#94a3b8" text-anchor="start">Sedang saya perdalam</text>
+<rect x="44.0" y="276" width="51.8" height="32" rx="16.0" fill="#0f1f3b" stroke="#1e3a5f"/>
+<text x="58.0" y="296.86" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" font-weight="500" fill="#7dd3fc" text-anchor="start">JWT</text>
+<rect x="105.8" y="276" width="68.4" height="32" rx="16.0" fill="#0f1f3b" stroke="#1e3a5f"/>
+<text x="119.8" y="296.86" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" font-weight="500" fill="#7dd3fc" text-anchor="start">bcrypt</text>
+<rect x="184.1" y="276" width="146.8" height="32" rx="16.0" fill="#0f1f3b" stroke="#1e3a5f"/>
+<text x="198.1" y="296.86" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" font-weight="500" fill="#7dd3fc" text-anchor="start">Row Level Security</text>
+<rect x="340.9" y="276" width="52.8" height="32" rx="16.0" fill="#0f1f3b" stroke="#1e3a5f"/>
+<text x="354.9" y="296.86" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" font-weight="500" fill="#7dd3fc" text-anchor="start">SQL</text>
+<line x1="620" y1="44" x2="620" y2="286" stroke="#1e3a5f"/>
+<text x="660" y="86" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="600" fill="#94a3b8" text-anchor="start">Bisa ditanya soal</text>
+<circle cx="666" cy="121" r="3.5" fill="#fbbf24"/>
+<text x="684" y="126" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="400" fill="#e2e8f0" text-anchor="start">React dan Vite</text>
+<circle cx="666" cy="159" r="3.5" fill="#fbbf24"/>
+<text x="684" y="164" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="400" fill="#e2e8f0" text-anchor="start">REST API dengan Node.js dan Express</text>
+<circle cx="666" cy="197" r="3.5" fill="#fbbf24"/>
+<text x="684" y="202" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="400" fill="#e2e8f0" text-anchor="start">Supabase dan PostgreSQL</text>
+<circle cx="666" cy="235" r="3.5" fill="#fbbf24"/>
+<text x="684" y="240" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="400" fill="#e2e8f0" text-anchor="start">Git dan GitHub</text>
+<circle cx="666" cy="273" r="3.5" fill="#fbbf24"/>
+<text x="684" y="278" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="400" fill="#e2e8f0" text-anchor="start">Website untuk belajar dan sekolah</text>
+</svg>
