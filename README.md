@@ -2,6 +2,12 @@
 
 <img src="./assets/header.svg" alt="MokioGeki-ID - Welcome to My Profile Github!" width="100%" />
 
+<img src="./assets/typing.svg" alt="Junior Fullstack Developer | JavaScript, HTML, CSS, Python, SQL | React, Node.js, Express, Supabase" width="100%" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=MokioGeki-ID&label=Profile+Views&color=1d4e89&style=flat" alt="Profile Views" />
+
 </div>
 
 <br/>
