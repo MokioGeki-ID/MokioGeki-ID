@@ -14,26 +14,26 @@
 <text x="64" y="124.0" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="400" fill="#94a3b8" text-anchor="end">30</text>
 <line x1="76" y1="86.0" x2="956" y2="86.0" stroke="#14264a"/>
 <text x="64" y="90.0" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="400" fill="#94a3b8" text-anchor="end">40</text>
-<polygon points="76,222 76.0,222.0 106.3,222.0 136.7,222.0 167.0,222.0 197.4,222.0 227.7,222.0 258.1,222.0 288.4,174.4 318.8,89.4 349.1,157.4 379.4,126.8 409.8,177.8 440.1,177.8 470.5,198.2 500.8,218.6 531.2,164.2 561.5,222.0 591.9,222.0 622.2,222.0 652.6,222.0 682.9,222.0 713.2,222.0 743.6,201.6 773.9,222.0 804.3,205.0 834.6,222.0 865.0,160.8 895.3,191.4 925.7,222.0 956.0,222.0 956,222" fill="url(#aca)"/>
-<polyline points="76.0,222.0 106.3,222.0 136.7,222.0 167.0,222.0 197.4,222.0 227.7,222.0 258.1,222.0 288.4,174.4 318.8,89.4 349.1,157.4 379.4,126.8 409.8,177.8 440.1,177.8 470.5,198.2 500.8,218.6 531.2,164.2 561.5,222.0 591.9,222.0 622.2,222.0 652.6,222.0 682.9,222.0 713.2,222.0 743.6,201.6 773.9,222.0 804.3,205.0 834.6,222.0 865.0,160.8 895.3,191.4 925.7,222.0 956.0,222.0" fill="none" stroke="#fbbf24" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="288.4" cy="174.4" r="3.6" fill="#0a1224" stroke="#7dd3fc" stroke-width="2"><title>2026-10-03: 14 kontribusi</title></circle>
-<circle cx="318.8" cy="89.4" r="3.6" fill="#0a1224" stroke="#7dd3fc" stroke-width="2"><title>2026-10-04: 39 kontribusi</title></circle>
-<circle cx="349.1" cy="157.4" r="3.6" fill="#0a1224" stroke="#7dd3fc" stroke-width="2"><title>2026-10-05: 19 kontribusi</title></circle>
-<circle cx="379.4" cy="126.8" r="3.6" fill="#0a1224" stroke="#7dd3fc" stroke-width="2"><title>2026-10-06: 28 kontribusi</title></circle>
-<circle cx="409.8" cy="177.8" r="3.6" fill="#0a1224" stroke="#7dd3fc" stroke-width="2"><title>2026-10-07: 13 kontribusi</title></circle>
-<circle cx="440.1" cy="177.8" r="3.6" fill="#0a1224" stroke="#7dd3fc" stroke-width="2"><title>2026-10-08: 13 kontribusi</title></circle>
-<circle cx="470.5" cy="198.2" r="3.6" fill="#0a1224" stroke="#7dd3fc" stroke-width="2"><title>2026-10-09: 7 kontribusi</title></circle>
-<circle cx="500.8" cy="218.6" r="3.6" fill="#0a1224" stroke="#7dd3fc" stroke-width="2"><title>2026-10-10: 1 kontribusi</title></circle>
-<circle cx="531.2" cy="164.2" r="3.6" fill="#0a1224" stroke="#7dd3fc" stroke-width="2"><title>2026-10-11: 17 kontribusi</title></circle>
-<circle cx="743.6" cy="201.6" r="3.6" fill="#0a1224" stroke="#7dd3fc" stroke-width="2"><title>2026-10-18: 6 kontribusi</title></circle>
-<circle cx="804.3" cy="205.0" r="3.6" fill="#0a1224" stroke="#7dd3fc" stroke-width="2"><title>2026-10-20: 5 kontribusi</title></circle>
-<circle cx="865.0" cy="160.8" r="3.6" fill="#0a1224" stroke="#7dd3fc" stroke-width="2"><title>2026-10-22: 18 kontribusi</title></circle>
-<circle cx="895.3" cy="191.4" r="3.6" fill="#0a1224" stroke="#7dd3fc" stroke-width="2"><title>2026-10-23: 9 kontribusi</title></circle>
-<text x="76.0" y="246" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="400" fill="#94a3b8" text-anchor="middle">26 Sep</text>
-<text x="227.7" y="246" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="400" fill="#94a3b8" text-anchor="middle">1 Okt</text>
-<text x="379.4" y="246" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="400" fill="#94a3b8" text-anchor="middle">6 Okt</text>
-<text x="531.2" y="246" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="400" fill="#94a3b8" text-anchor="middle">11 Okt</text>
-<text x="682.9" y="246" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="400" fill="#94a3b8" text-anchor="middle">16 Okt</text>
-<text x="834.6" y="246" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="400" fill="#94a3b8" text-anchor="middle">21 Okt</text>
-<text x="956.0" y="246" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="400" fill="#94a3b8" text-anchor="end">25 Okt</text>
+<polygon points="76,222 76.0,222.0 106.3,222.0 136.7,222.0 167.0,222.0 197.4,222.0 227.7,222.0 258.1,174.4 288.4,89.4 318.8,157.4 349.1,126.8 379.4,177.8 409.8,177.8 440.1,198.2 470.5,218.6 500.8,164.2 531.2,222.0 561.5,222.0 591.9,222.0 622.2,222.0 652.6,222.0 682.9,222.0 713.2,201.6 743.6,222.0 773.9,205.0 804.3,222.0 834.6,160.8 865.0,191.4 895.3,222.0 925.7,222.0 956.0,222.0 956,222" fill="url(#aca)"/>
+<polyline points="76.0,222.0 106.3,222.0 136.7,222.0 167.0,222.0 197.4,222.0 227.7,222.0 258.1,174.4 288.4,89.4 318.8,157.4 349.1,126.8 379.4,177.8 409.8,177.8 440.1,198.2 470.5,218.6 500.8,164.2 531.2,222.0 561.5,222.0 591.9,222.0 622.2,222.0 652.6,222.0 682.9,222.0 713.2,201.6 743.6,222.0 773.9,205.0 804.3,222.0 834.6,160.8 865.0,191.4 895.3,222.0 925.7,222.0 956.0,222.0" fill="none" stroke="#fbbf24" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="258.1" cy="174.4" r="3.6" fill="#0a1224" stroke="#7dd3fc" stroke-width="2"><title>2026-10-03: 14 kontribusi</title></circle>
+<circle cx="288.4" cy="89.4" r="3.6" fill="#0a1224" stroke="#7dd3fc" stroke-width="2"><title>2026-10-04: 39 kontribusi</title></circle>
+<circle cx="318.8" cy="157.4" r="3.6" fill="#0a1224" stroke="#7dd3fc" stroke-width="2"><title>2026-10-05: 19 kontribusi</title></circle>
+<circle cx="349.1" cy="126.8" r="3.6" fill="#0a1224" stroke="#7dd3fc" stroke-width="2"><title>2026-10-06: 28 kontribusi</title></circle>
+<circle cx="379.4" cy="177.8" r="3.6" fill="#0a1224" stroke="#7dd3fc" stroke-width="2"><title>2026-10-07: 13 kontribusi</title></circle>
+<circle cx="409.8" cy="177.8" r="3.6" fill="#0a1224" stroke="#7dd3fc" stroke-width="2"><title>2026-10-08: 13 kontribusi</title></circle>
+<circle cx="440.1" cy="198.2" r="3.6" fill="#0a1224" stroke="#7dd3fc" stroke-width="2"><title>2026-10-09: 7 kontribusi</title></circle>
+<circle cx="470.5" cy="218.6" r="3.6" fill="#0a1224" stroke="#7dd3fc" stroke-width="2"><title>2026-10-10: 1 kontribusi</title></circle>
+<circle cx="500.8" cy="164.2" r="3.6" fill="#0a1224" stroke="#7dd3fc" stroke-width="2"><title>2026-10-11: 17 kontribusi</title></circle>
+<circle cx="713.2" cy="201.6" r="3.6" fill="#0a1224" stroke="#7dd3fc" stroke-width="2"><title>2026-10-18: 6 kontribusi</title></circle>
+<circle cx="773.9" cy="205.0" r="3.6" fill="#0a1224" stroke="#7dd3fc" stroke-width="2"><title>2026-10-20: 5 kontribusi</title></circle>
+<circle cx="834.6" cy="160.8" r="3.6" fill="#0a1224" stroke="#7dd3fc" stroke-width="2"><title>2026-10-22: 18 kontribusi</title></circle>
+<circle cx="865.0" cy="191.4" r="3.6" fill="#0a1224" stroke="#7dd3fc" stroke-width="2"><title>2026-10-23: 9 kontribusi</title></circle>
+<text x="76.0" y="246" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="400" fill="#94a3b8" text-anchor="middle">27 Sep</text>
+<text x="227.7" y="246" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="400" fill="#94a3b8" text-anchor="middle">2 Okt</text>
+<text x="379.4" y="246" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="400" fill="#94a3b8" text-anchor="middle">7 Okt</text>
+<text x="531.2" y="246" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="400" fill="#94a3b8" text-anchor="middle">12 Okt</text>
+<text x="682.9" y="246" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="400" fill="#94a3b8" text-anchor="middle">17 Okt</text>
+<text x="834.6" y="246" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="400" fill="#94a3b8" text-anchor="middle">22 Okt</text>
+<text x="956.0" y="246" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="400" fill="#94a3b8" text-anchor="end">26 Okt</text>
 </svg>
